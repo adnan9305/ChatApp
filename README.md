@@ -1,0 +1,1 @@
+Developed a real-time chat room application using Spring Boot for backend services and ReactJS for the frontend interface. The application enables users to communicate seamlessly in real time, leveraging technologies like WebSocket for efficient message transmission.
